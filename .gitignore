@@ -1,1 +1,4 @@
 /django_app/env
+.env.prod
+.env.prod.db
+
